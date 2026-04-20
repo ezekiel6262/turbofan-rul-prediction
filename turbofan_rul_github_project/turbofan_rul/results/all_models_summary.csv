@@ -1,0 +1,7 @@
+Model,Train_RMSE,Test_RMSE,Train_R2,Test_R2
+Linear Regression,18.024,33.765,0.8049,0.3406
+Lasso Regression,18.062,34.023,0.8041,0.3305
+Decision Tree,7.11,42.131,0.9696,-0.0266
+Random Forest,2.425,41.401,0.9965,0.0087
+SVR,4.666,41.469,0.9868,0.0054
+LSTM,8.703,41.356,0.9546,0.0108
