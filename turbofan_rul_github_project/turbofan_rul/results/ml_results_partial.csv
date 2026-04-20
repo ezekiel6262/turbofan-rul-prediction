@@ -1,4 +1,0 @@
-Model,Test_RMSE,Test_R2,Train_RMSE,Train_R2
-Linear Regression,33.765,0.3406,18.024,0.8049
-Decision Tree,42.131,-0.0266,7.11,0.9696
-Lasso,34.023,0.3305,18.062,0.8041
